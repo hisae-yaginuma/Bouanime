@@ -1,0 +1,24 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen",
+        "org.apache.cordova.statusbar"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "3.5",
+    "plugin_settings": [],
+    "external_plugins": [],
+    "title-ja": "homework#6",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "android",
+        "ios",
+        "winrt",
+        "chrome"
+    ],
+    "name": "generated-1495456852-591e667bff2af2ff7e4e1f6b"
+}
